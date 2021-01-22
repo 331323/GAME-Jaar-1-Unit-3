@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Challenge3.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\ERICA THE PERFECT\OneDrive - MBO Utrecht\Dev-Game Unity\Create with Code\Challenge3\.idea\.idea.Challenge3\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
